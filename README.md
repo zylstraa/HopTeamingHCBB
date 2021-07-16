@@ -1,5 +1,8 @@
 # Hop Teaming Analysis
 
+*This project was for Nashville Software School to be completed as a group. My contribution to the project is located in the Alexanotebooks folder.*
+
+
 For this project, you will be working with the Hop Teaming dataset, a dataset which aims to capture referrals between healthcare providers based on Medicare claims. The 2017 Hop Teaming dataset can be acquired for no charge from https://careset.com/datasets-3/.
 
 The Hop Teaming dataset identifies providers using NPIs, or National Provider Identifiers. An NPI is a unique identification number for covered health care providers created to improve the efficiency and effectiveness of electronic transmission of health information. An NPI is mandatory for all Medicare providers. To supplement the Hop Teaming, download the NPPES Data Dissemination from https://download.cms.gov/nppes/NPI_Files.html. 
